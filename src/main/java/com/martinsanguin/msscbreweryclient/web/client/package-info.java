@@ -1,0 +1,1 @@
+package com.martinsanguin.msscbreweryclient.web.client;
